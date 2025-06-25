@@ -38,11 +38,11 @@ The following **additional** features are implemented:
 
 ## Notes
 
-When developing it I struggled to find the correct way to display the text because I assumed it was something wrong with my code but it tuned out that I just needed to make my box bigger in storybord to fit it all.
+When developing it I struggled to find the correct way to display the text because it kept on appearing all mushed and showing 3-5 words max I assumed it was something wrong with my code or me connecting it to the View control incorrectly,but it tuned out that I just needed to make my box bigger in storybord to fit it all.
 
 ## License
 
-    Copyright [2025] [name of copyright owner]
+    Copyright [2025] [Brandon Lopez]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
